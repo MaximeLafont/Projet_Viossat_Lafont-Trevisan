@@ -1,0 +1,19 @@
+/Users/user/Desktop/Projet_c++/SDL2.framework/Versions/A/Headers/SDL.h
+
+
+-I/usr/local/include/SDL2 -D_THREAD_SAFE -L/usr/local/lib -lSDL2
+
+
+Pour box2d:
+
+/usr/local/Cellar/box2d/2.4.1/include/box2d
+
+Video YouTube utile :
+
+https://www.youtube.com/watch?v=SCjTi6S2_0o
+
+
+
+Compile:
+
+g++ window.cc -o main -lSDL2 
